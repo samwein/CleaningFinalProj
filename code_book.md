@@ -32,7 +32,7 @@ For each record in the original dataset, the following is provided:
 
 ======================================
 
-**ABOUT DATA IN DATASETS ALL_DATA.TXT & MEAN_DATA.TXT
+**ABOUT DATA IN DATASETS ALL_DATA.TXT & MEAN_DATA.TXT**
 
 The features selected for this database come from the:
 1) accelerometer *(acc)*
@@ -88,6 +88,7 @@ For each of the above signals, the following were were estimated and correspond 
 2) standard deviation *(std)*
 
 =======================================
+
 **TRANSFORMATIONS AND CLEANING OF ORIGINAL DATASETS TO GET TO TIDY DATASETS**
 
  Function *run_analysis.r* overview
